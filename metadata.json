@@ -1,0 +1,6 @@
+{
+  "name": "Camunda 7 Flow Comparer",
+  "description": "An intelligent web application to visually compare two Camunda 7 BPMN flow files, highlighting differences and providing an AI-generated summary of the changes.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
